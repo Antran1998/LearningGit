@@ -2,3 +2,5 @@ egg
 water
 rice
 soda
+wall
+sand
