@@ -1,8 +1,0 @@
-baker
-egg
-water
-rice
-soda
-wall
-sand
-bottle
