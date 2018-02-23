@@ -5,3 +5,4 @@ rice
 soda
 wall
 sand
+bottle
